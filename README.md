@@ -75,7 +75,7 @@
 
 ---
 
-### 📂 프로젝트 파일 구성
+### 프로젝트 파일 구성
 * `BigDataSteamDB.ipynb`: 데이터 전처리 및 시각화 전체 코드
 * `BDproject.pdf`: 분석 결과 발표 자료
 * `steam.csv`: 분석에 사용된 데이터셋
