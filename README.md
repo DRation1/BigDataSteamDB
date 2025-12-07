@@ -44,8 +44,7 @@
 * **이상치 및 결측치 처리:**
     * 분석에 방해되는 노이즈 데이터 제거 및 결측값(0) 보정.
 
-👉 **[데이터 전처리 및 분석 코드 보러가기 (Colab/Jupyter)](./BigDataSteamDB.ipynb.ipynb)**
-*(위 링크에 실제 업로드할 ipynb 파일명을 넣어주세요)*
+👉 **[데이터 전처리 및 분석 코드 보러가기](./BigDataSteamDB.ipynb)**
 
 ### 5. 분석 및 시각화 (Analysis & Visualization)
 
